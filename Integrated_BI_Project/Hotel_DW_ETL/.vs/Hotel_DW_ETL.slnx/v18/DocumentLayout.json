@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OsandaMadugalle\\source\\repos\\Hotel_DW_ETL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC36A6-BC22-2BC8-963F-76B6CD140DFB}|Hotel_DW_ETL.dtproj|C:\\Users\\OsandaMadugalle\\source\\repos\\Hotel_DW_ETL\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{F9CC36A6-BC22-2BC8-963F-76B6CD140DFB}|Hotel_DW_ETL.dtproj|solutionrelative:Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC36A6-BC22-2BC8-963F-76B6CD140DFB}|Hotel_DW_ETL.dtproj|C:\\Users\\OsandaMadugalle\\source\\repos\\Hotel_DW_ETL\\Update_Accumulating_Fact.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{F9CC36A6-BC22-2BC8-963F-76B6CD140DFB}|Hotel_DW_ETL.dtproj|solutionrelative:Update_Accumulating_Fact.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D24C50-6702-7412-EF4F-7DB0719822F3}|..\\CubeProject_IT23555594\\CubeProject_IT23555594.dwproj|C:\\Users\\OsandaMadugalle\\source\\repos\\CubeProject_IT23555594\\Hotel DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D24C50-6702-7412-EF4F-7DB0719822F3}|..\\CubeProject_IT23555594\\CubeProject_IT23555594.dwproj|C:\\Users\\OsandaMadugalle\\source\\repos\\CubeProject_IT23555594\\Hotel DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hotel DW.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\OsandaMadugalle\\source\\repos\\CubeProject_IT23555594\\Hotel DW.dsv",
+              "RelativeDocumentMoniker": "..\\CubeProject_IT23555594\\Hotel DW.dsv",
+              "ToolTip": "C:\\Users\\OsandaMadugalle\\source\\repos\\CubeProject_IT23555594\\Hotel DW.dsv [Design]",
+              "RelativeToolTip": "..\\CubeProject_IT23555594\\Hotel DW.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-18T11:58:58.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update_Accumulating_Fact.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\OsandaMadugalle\\source\\repos\\Hotel_DW_ETL\\Update_Accumulating_Fact.dtsx",
+              "RelativeDocumentMoniker": "Update_Accumulating_Fact.dtsx",
+              "ToolTip": "C:\\Users\\OsandaMadugalle\\source\\repos\\Hotel_DW_ETL\\Update_Accumulating_Fact.dtsx [Design]",
+              "RelativeToolTip": "Update_Accumulating_Fact.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-04-18T11:38:21.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Package.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\OsandaMadugalle\\source\\repos\\Hotel_DW_ETL\\Package.dtsx",
+              "RelativeDocumentMoniker": "Package.dtsx",
+              "ToolTip": "C:\\Users\\OsandaMadugalle\\source\\repos\\Hotel_DW_ETL\\Package.dtsx [Design]",
+              "RelativeToolTip": "Package.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-04-18T11:22:37.27Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hotel DW.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\OsandaMadugalle\\source\\repos\\CubeProject_IT23555594\\Hotel DW.cube",
+              "RelativeDocumentMoniker": "..\\CubeProject_IT23555594\\Hotel DW.cube",
+              "ToolTip": "C:\\Users\\OsandaMadugalle\\source\\repos\\CubeProject_IT23555594\\Hotel DW.cube [Design]",
+              "RelativeToolTip": "..\\CubeProject_IT23555594\\Hotel DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-20T00:07:48.499Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
