@@ -5,6 +5,14 @@
 ## 📌 Project Overview
 This repository hosts a comprehensive Business Intelligence implementation based on a 2024 Hotel Sales dataset (6,050 records). The project demonstrates the full BI lifecycle: Data Warehousing, ETL, Multidimensional Modeling (OLAP), and Interactive Visualization.
 
+For a detailed walkthrough of the implementation methodologies, business logic, and analytical findings, please refer to the comprehensive reports in the [Documentation/](Documentation/) folder:
+- **[Assignment_01_Report.pdf](Documentation/Assignment_01_Report.pdf)**: Detailed documentation of the ETL processes, data cleaning, and warehouse design.
+- **[Assignment_02_Report.pdf](Documentation/Assignment_02_Report.pdf)**: In-depth analysis of the Multidimensional Cube, custom MDX measures, and Power BI visualization strategy.
+
+For project context and requirements, see the original briefs:
+- **[IT3021 - DWBI - Assignment 1 - 2026.pdf](Documentation/IT3021%20-%20DWBI%20-%20Assignment%201%20-%202026.pdf)**: Project requirements for Data Warehousing & ETL.
+- **[IT3021 - DWBI - Assignment 2 - 2026.pdf](Documentation/IT3021%20-%20DWBI%20-%20Assignment%202%20-%202026.pdf)**: Project requirements for Multidimensional Modeling & Visualization.
+
 ## 🏗️ Technical Architecture
 The solution is built using the **Microsoft BI Stack**:
 1. **Data Warehouse:** SQL Server Star Schema design.
